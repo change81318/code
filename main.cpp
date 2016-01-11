@@ -1,4 +1,4 @@
-//lq added
+
 #include <QCoreApplication>
 #include "clientinclientout.h"
 #include <iostream>
